@@ -1,6 +1,6 @@
 {
   "name": "ios",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "iOS Autocompletion for Atom",
   "repository": "https://github.com/webBoxio/atom-ios",
   "license": "MIT",
